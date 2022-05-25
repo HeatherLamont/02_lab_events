@@ -1,0 +1,34 @@
+body {
+  font-family: Palatino;
+}
+
+.reading-list-div{
+  padding: 1%;
+  display: flex;
+  flex-wrap: wrap;  
+}
+
+
+.reading-list-ul {
+  margin: 0.5rem;
+  padding: 1rem;
+  border-style: solid;
+  border-radius: 10%;
+  background-color: lightblue;
+ 
+}
+
+.reading-list-title {
+  margin: 0;
+  
+  
+}
+.reading-list-author {
+  margin: 0;
+  
+}
+.reading-list-category {
+  font-style: italic;
+  margin: 0;
+  
+}
